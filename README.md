@@ -1,5 +1,7 @@
 # PHP-Exam
 
+To be completed in 4 hours.
+
 Features required:
 
 1. Login and Registration with validations.
